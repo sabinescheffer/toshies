@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/__init__.py
+src/randomdata.py
+toshies.egg-info/PKG-INFO
+toshies.egg-info/SOURCES.txt
+toshies.egg-info/dependency_links.txt
+toshies.egg-info/requires.txt
+toshies.egg-info/top_level.txt
